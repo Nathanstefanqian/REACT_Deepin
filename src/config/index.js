@@ -1,0 +1,1 @@
+export const STATIC_URL = 'https://image-5gw.pages.dev/'
